@@ -1,0 +1,81 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.48773986" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6140156" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6163328" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="DBE.Default.Dialect" value="TSQL" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Atom One Dark" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileChooser.ShowPath" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="MsDeploy.Remote" />
+    <property name="InstalledPluginsSearchHistory" value="s&#10;sass" />
+    <property name="KEYMAP" value="select all&#10;emme&#10;gene&#10;add&#10;navigation" />
+    <property name="MTBorderPopup" value="true" />
+    <property name="MTTabsHeight" value="42" />
+    <property name="PLUGIN_FILTER" value="mater" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.5" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RiderUnitTestGroupingRules.Project" value="1" />
+    <property name="RiderUnitTestGroupingRules.SolutionFolder" value="2" />
+    <property name="RiderUnitTestSessionPanel.Splitter" value="0.67677313" />
+    <property name="SearchEveryWhereHistory" value="comment&#10;expl&#10;fiscal_d&#10;data&#10;explo" />
+    <property name="SettingsSearchHistory" value="templa&#10;coverage&#10;covera&#10;javascript&#10;javasc" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="settings&#10;redis&#10;emmet" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="OCEANIC" />
+    <property name="com.intellij.database.actions.ToolActions$ScriptingActionBase$1.previewExpanded" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.splitter" value="0.49446902" />
+    <property name="delete.locally.added.files" value="true" />
+    <property name="dir.diff.panel.divider.location" value="77" />
+    <property name="evlsprt3.182" value="13" />
+    <property name="evlsprt3.183" value="16" />
+    <property name="file.chooser.recent.files" value="C:/LVR/LVR.DigitalizzazioneDocumenti/branches/LVR.DigitalDoc.BolletteDoganali/Performance/src/LVR.DigitalDoc.BolletteDoganali.sln&#10;C:/LVR/LVR.DigitalizzazioneDocumenti/trunk/LVR.DigitalDoc.BolletteDoganali/src/LVR.DigitalDoc.BolletteDoganali.sln&#10;C:/JetMSBuild/MSBuild/15.0/Bin/MSBuild.exe&#10;C:/LVR/LVR.Backoffice/trunk/LVR.Backoffice.WebMerchandisingSuite/src/LVR.Backoffice.WebMerchandisingSuite.sln&#10;C:/LVR/LVR.Backoffice/branches/LVR.Backoffice.WebMerchandisingSuite/TotalLookAuto/src/LVR.Backoffice.WebMerchandisingSuite.Data/Repository/TotalLookRepository.cs&#10;C:/LVR/LVR.Backoffice/branches/LVR.Backoffice.WebMerchandisingSuite/TotalLookAuto/src/LVR.Backoffice.WebMerchandisingSuite.Data/Interfaces/ITotalLookRepository.cs&#10;C:/LVR/LVR.Backoffice/branches/LVR.Backoffice.WebMerchandisingSuite/TotalLookAuto/src/LVR.Backoffice.WebMerchandisingSuite.Data.Tests/Integration/TotalLookRepositoryTest.cs&#10;C:/LVR/LVR.Backoffice/branches/LVR.Backoffice.WebMerchandisingSuite/TotalLookAuto/src/LVR.Backoffice.WebMerchandisingSuite.sln&#10;C:/LVR/LVR/trunk/library/src/LVR.Library.sln&#10;C:/LVR/LVR.Credem/trunk/src/LVR.Credem.sln&#10;C:/LVR/LVR.Backoffice/branches/LVR.Backoffice.ElectronicInvoicing/ManualAttachment/src/LVR.Backoffice.ElectronicInvoicing.WebApp.sln&#10;C:/LVR/LVR.Backoffice/branches/LVR.Backoffice.ElectronicInvoicing/NotElectronicAnymore/src/LVR.Backoffice.ElectronicInvoicing.WebApp.sln&#10;C:/LVR/LVR.ElectronicInvoicing/branches/riallineamenoVatSummary/src/LVR.ElectronicInvoicing.sln&#10;C:/LVR/LVR.Backoffice/branches/LVR.Backoffice.ElectronicInvoicing/NoteAllegati/src/LVR.Backoffice.ElectronicInvoicing.WebApp.sln&#10;C:/LVR/LVR.Backoffice/branches/LVR.Backoffice.ElectronicInvoicing/AssegnaATerzi/src/LVR.Backoffice.ElectronicInvoicing.WebApp.sln&#10;C:/Users/federico/Desktop/sweetalert2.all.min.js&#10;C:/LVR/LVR.Backoffice/branches/ModificheUI/LVR.Backoffice.ElectronicInvoicing/src/LVR.Backoffice.ElectronicInvoicing.WebApp.sln&#10;C:/LVR/LVR.Credem/branches/FlussoPassivo/src/LVR.Credem.sln&#10;C:/LVR/LVR.Backoffice/trunk/LVR.Backoffice.ElectronicInvoicing/src/LVR.Backoffice.ElectronicInvoicing.WebApp.sln&#10;C:/Users/federico/Downloads/ei_passive_fiscal_documents.sql&#10;C:/LVR/LVR.Backoffice/branches/FlussoPassivo/LVR.Backoffice.ElectronicInvoicing/src/LVR.Backoffice.ElectronicInvoicing.WebApp/Services/StubbedPassiveDocumentService.cs&#10;C:/Users/federico/Desktop/stileFatturaLVR.xsl&#10;C:/LVR/LVR.ElectronicInvoicing/branches/FlussoPassivo/src/LVR.ElectronicInvoicing.sln&#10;C:/LVR/LVR.ElectronicInvoicing/branches/FlussoPassivo/src/LVR.ElectronicInvoicing.Local.Test/Assets/PassiveDocumentGraphMother.cs&#10;C:/LVR/LVR.ElectronicInvoicing/trunk/src/LVR.ElectronicInvoicing.sln&#10;C:/Users/federico/Desktop/LVR/LVR.ElectronicInvoicing/branches/FlussoPassivo/src/LVR.ElectronicInvoicing.sln&#10;C:/Users/federico/Desktop/LVR/LVR.Backoffice/trunk/LVR.Backoffice.ElectronicInvoicing/src/LVR.Backoffice.ElectronicInvoicing.WebApp.sln&#10;C:/Users/federico/Desktop/LVR/LVR.Credem/trunk/src/LVR.Credem.sln&#10;C:/Users/federico/Desktop/LVR/LVR.Backoffice/trunk/LVR.Backoffice.ElectronicInvoicing/src/LVR.Backoffice.ElectronicInvoicing.WebApp/Scripts/handlebars-v4.0.12.js&#10;C:/Users/federico/Desktop/LVR/LVR.Credem/branches/FatturazioneElettronica/src/LVR.Credem.ElectronicInvoice.Sched/Config" />
+    <property name="file.gist.reindex.count" value="7991" />
+    <property name="fileTypeChangedCounter" value="55" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.var.names.completion" value="false" />
+    <property name="last_open_solution_path" value="C:/LVR/LVR.DigitalizzazioneDocumenti/branches/LVR.DigitalDoc.BolletteDoganali/Performance/src" />
+    <property name="last_selected_template" value="Unit Test Project|.NET" />
+    <property name="last_selected_template_parameters" value="Type=xUnit;Language=C#;Framework=v4.5.2;" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="search.everywhere.max.popup.width" value="620" />
+    <property name="settings.code.style.selected.tab.C#" value="Naming" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://rep01-it-s.luisa.loc:81/svn" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://rep01-it-s.luisa.loc:81/svn" />
+      </list>
+    </option>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.H">
+    <pattern>*</pattern>
+    <pattern>webmerch-de</pattern>
+    <pattern>webmerch-dev</pattern>
+    <pattern>webmerch-dev:</pattern>
+    <pattern>del webmerch-dev:</pattern>
+    <pattern>webmerch-dev*</pattern>
+    <pattern>del webmerch-dev*</pattern>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.ServerConfigurations">
+    <servers>
+      <general label="127.0.0.1" host="redis4test-it-s" port="6379" pwdcode="fdjlasi8vdvsd" timestamp="1551890931507" valueEditorName="TextValueEditor" />
+    </servers>
+  </component>
+</application>

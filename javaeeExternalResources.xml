@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.nlog-project.org/schemas/NLog.xsd" location="$USER_HOME$/.Rider2018.3/system/extResources/ebda59dc_NLog.xsd" />
+  </component>
+</application>
